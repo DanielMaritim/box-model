@@ -1,0 +1,18 @@
+div {
+	background-color:lightblue;
+	width:200px;
+	padding:25px;
+	margin:10px;
+	border:25px solid grey;
+}
+/*
+HTML elements tend to be like boxes
+In css its used to talk about layout...it includes margin,border,padding and content
+the content is where the information is
+the padding is the areas around the content
+the border is the area around the padding and content
+margin is the area around the border
+When one sets the width and height area it means they are setting the area around the content to what ever value
+total width of an element should be width+left and right padding +left and right border + left and right margin;
+total height of an element should be height + top and bottom padding +top and bottom border + top and bottom margin
+*/
